@@ -1,5 +1,6 @@
 # Employee HR Dashboard with Power BI
 This repository contains a comprehensive Employee HR Dashboard built using Power BI, analyzing employee demographics, performance, satisfaction, attrition rates, and hiring trends. This detailed analysis offers insights into employee behavior, workforce dynamics, and organizational efficiency to help optimize HR strategies.
+![image](https://github.com/Niteesh-Nigam/Employee-HR-Dashboard-Power-BI/blob/main/images/HR_page-0004.jpg)
 
 ## Project Overview
 The Employee HR Dashboard provides a holistic overview of employee data, including workforce demographics, performance evaluations, satisfaction levels, and attrition trends. This powerful visualization tool is built for HR teams to track and analyze critical employee metrics, make informed decisions, and forecast future trends within the organization.
@@ -98,7 +99,7 @@ A steady increase in job satisfaction has been observed over the past 3 years, i
 Employees in the Technology Department report the highest work-life balance satisfaction.
 Environment Satisfaction: 70% of employees are satisfied with the workplace environment.
 
-Visualization Placeholder (Insert charts for performance and satisfaction trends here)
+![image](https://github.com/Niteesh-Nigam/Employee-HR-Dashboard-Power-BI/blob/main/images/HR_page-0003.jpg)
 
 ## Attrition Analysis
 The overall attrition rate is 16.1%, with the highest attrition rates observed in the Sales Department and among frequent travelers.
@@ -128,7 +129,7 @@ Post-pandemic recovery saw a sharp increase in hiring during 2021 and 2022.
 ### Hiring Breakdown:
 Technology Department: 40% of new hires.
 Sales Department: 35% of new hires.
-Visualization Placeholder (Insert hiring trend graph here)
+![image](https://github.com/Niteesh-Nigam/Employee-HR-Dashboard-Power-BI/blob/main/images/HR_page-0001.jpg)
 
 ## Department and Role Analysis
 ### Departmental Insights

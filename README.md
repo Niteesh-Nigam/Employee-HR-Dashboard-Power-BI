@@ -50,7 +50,7 @@ Age Breakdown:
 30-39 years: 40%
 40-49 years: 20%
 50+ years: 13%
-Gender Distribution:
+## Gender Distribution:
 
 Male: 52%
 Female: 45%
